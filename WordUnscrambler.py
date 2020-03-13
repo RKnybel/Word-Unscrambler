@@ -2,7 +2,7 @@
 	Word unscrambler by Riley Knybel
 
 	The actual algorithm is in the unscramble function. It takes a scrambled word string and a list of words and
-	outputs a list of unscrambled words that match the length and number of characters.
+	outputs a list of unscrambled words that match the length and occurencies of each character.
 
 	Paired with words.txt from https://github.com/dwyl/english-words/
 '''
